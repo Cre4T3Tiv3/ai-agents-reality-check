@@ -13,9 +13,6 @@ Benchmarking the gap between AI agent hype and architectural reality. Mathematic
   <a href="https://github.com/Cre4T3Tiv3/ai-agents-reality-check/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0">
   </a>
-  <a href="https://orcid.org/0009-0006-0322-7974">
-    <img src="https://img.shields.io/badge/ORCID-0009--0006--0322--7974-A6CE39?logo=orcid&logoColor=white" alt="ORCID: 0009-0006-0322-7974">
-  </a>
   <a href="https://bytestacklabs.com">
     <img src="https://img.shields.io/badge/Made%20by-ByteStack%20Labs-2ea44f" alt="ByteStack Labs">
   </a>
