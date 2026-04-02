@@ -2,7 +2,7 @@ Benchmarking the gap between AI agent hype and architectural reality. Mathematic
 
 <p align="center">
   <a href="https://github.com/Cre4T3Tiv3/ai-agents-reality-check" target="_blank">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_v0.1.0_latest.png" alt="AI Agents Reality Check v0.1.0" width="640"/>
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/ai-agents-reality-check/main/docs/assets/ai_agents_reality_check_latest_v0.1.0.png" alt="AI Agents Reality Check v0.1.0" width="640"/>
   </a>
 </p>
 
